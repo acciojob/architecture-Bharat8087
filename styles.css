@@ -1,1 +1,35 @@
-/*  your css code here. If applicable */
+.container{
+	width:1200px;
+	margin:auto;
+	padding:20px;
+}
+.imageContainer{
+	width:100%;
+	margin-bottom:20px;
+	image-orientation:100%;
+}
+.tableContainer{
+	overflow-x:auto;
+}
+.table{
+	width:100;
+	border-collapse:collapse;
+}
+
+.column1{
+    width: 200px;
+}
+
+.column2 {
+    width: 600px;
+}
+.column3{
+	width:200;
+}
+
+
+
+
+
+
+
